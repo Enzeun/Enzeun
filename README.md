@@ -12,7 +12,7 @@
 
 | 프로젝트 | 형태 | 보여 드리는 것 | 링크 |
 | --- | --- | --- | --- |
-| **NoMorePotion** | 기업협약 4인 · 진행 중 | 기획 시트 → SO 자동 생성(효과 276개, 실패 0), Profiler로 할당 300,059건 제거, 마스터 검증 기반 인벤토리 동기화 | [상세](https://enzeun.github.io/projects/nomorepotion.html) |
+| **NoMorePotion** | 기업협약 4인 · CBT 제출 | 기획 시트 → SO 자동 생성(효과 276개, 실패 0), Profiler로 할당 300,059건 제거, 마스터 검증 기반 인벤토리 동기화 | [상세](https://enzeun.github.io/projects/nomorepotion.html) |
 | **Infectstella** | 네트워크 3인 · 2주 · itch.io | Photon 마스터 권한 동기화, 전원 로딩 확인 후 씬 진입, Firebase 인증 · 랭킹 | [상세](https://enzeun.github.io/projects/infectstella.html) · [코드](https://github.com/Enzeun/Infectstellar_NetworkTeamProject) |
 | **After the Ring** | 1인 · 약 3주 · itch.io | 프레임워크를 고치지 않고 확장한 런타임 이벤트 바인딩, UniTask 연출 시퀀스 | [상세](https://enzeun.github.io/projects/after-the-ring.html) · [코드](https://github.com/Enzeun/Project_HorrorGame_First) |
 | **Last Magician** | 3인 · 5일 · 팀장 | 턴 상태 머신과 Skill / Enemy Queue로 만든 전투 루프, 팀 기능 통합 | [상세](https://enzeun.github.io/projects/last-magician.html) · [코드](https://github.com/Enzeun/DEVELROCKET_TeamProject) |
